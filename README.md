@@ -1,3 +1,4 @@
+About me 📌
 - 👋 Hi, I’m Aws Ayyash
 - 👀 I’m interested in building responsive web pages 
 - 🌱 I’m currently learning html, css, js
