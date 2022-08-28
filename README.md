@@ -1,7 +1,6 @@
 <H1>About me 📌</H1>
 - 👋 Hi, I’m Aws Ayyash
-- 👀 I’m interested in building responsive web pages 
-- 🌱 I’m currently learning html, css, js
+- 👀 I’m interested in building REST APIs using Flask framework-Python 
 - 💁‍♂️ I'm currently a student at Birzeit University with Computer Science major
 <!---
 AwsAyyash/AwsAyyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
