@@ -1,7 +1,9 @@
 <H1>About me 📌</H1>
 - 👋 Hi, I’m Aws Ayyash
 
-- 👀 I’m interested in building REST APIs using Flask framework-Python 
+- 👀 I’m interested in backend development 
+
+- 📌 I'm currently learning to build REST APIs using Flask framework-Python 
 
 - 💁‍♂️ I'm currently a student at Birzeit University with Computer Science major
 
