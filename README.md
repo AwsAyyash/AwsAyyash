@@ -1,5 +1,5 @@
 <H1>About me 📌</H1>
-- 👋 Hi, I’m Aws Ayyash and I'm in my last year of my bachelor degree as computer science student @Birzeit university who is always motivated to develop my technical skills.
+- 👋 Hi, I’m Aws Ayyash and I'm in my last semester of my bachelor degree as computer science student @Birzeit university who is always motivated to develop my technical skills. Last year -2021/2022- I did an Erasmus+ exchange semester in the department of computer and data science at Sapienza university of Rome, Italy.
 
 - 👀 I’m very passionate about problem solving and algorithms. Trying to make solving at least one leetcode qustion a daily habit.
 
