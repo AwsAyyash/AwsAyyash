@@ -66,11 +66,8 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"></h2> 
 <p align="center">
   <a href = "mailto:aws.ayyash.1@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/aws-ayyash/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
-  
-  <a href = "https://leetcode.com/AwsAyyash/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height = 30></a>  
- 
- 
+  <a href = "https://www.linkedin.com/in/aws-ayyash/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>  
+<a href = "https://leetcode.com/AwsAyyash/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height = 30></a>  
 </p>
 <br />
 <h6 align="center" ><i>⚡If You Take The Design Please Star The Repo ⭐</i></h6>
