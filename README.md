@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Aws Ayyash a software engineer.
 - 👨‍💻 I’m interested in Full-Stack development and always motivated to develop my technical skills.
-- 🎓 I'm fresh computer science graduate with "Distinction" @Birzeit university. And a former Erasmus+ exchange studetn @Sapienza university of Rome, Italy in the department of computer and data science.
+- 🎓 I'm fresh computer science graduate with "Distinction" @Birzeit university. And a former Erasmus+ exchange student @Sapienza university of Rome, Italy in the department of computer and data science.
 - 📫 How to Reach Me aws.ayyash.1@gmail.com
 - 💁‍ I'm currently learning and working with React TypeScript as R&D frontend developer.
 
