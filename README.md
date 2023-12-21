@@ -8,11 +8,11 @@
  
 <h1>About Me 📌</h1>
 
-- 👋 Hi, I’m Aws Ayyash.
-- 👨‍💻 I’m interested in backend development.
-- 🎓 I'm in my last semester of my bachelor degree as computer science student @Birzeit university who is always motivated to develop my technical skills. Last year -2021/2022- I did an Erasmus+ exchange semester in the department of computer and data science at Sapienza university of Rome, Italy.
+- 👋 Hi, I’m Aws Ayyash a software engineer. I'm always motivated to develop my technical skills.
+- 👨‍💻 I’m interested in Full-Stack development.
+- 🎓 I'm fresh computer science graduate with "Distinction" @Birzeit university. And a former Erasmus+ exchange studetn @Sapienza university of Rome, Italy in the department of computer and data science.
 - 📫 How to Reach Me aws.ayyash.1@gmail.com
-- 💁‍ I'm currently learning native Android development with java, also developing and consuming RESTful web services.
+- 💁‍ I'm currently learning and working with React TypeScript as R&D frontend developer.
 
 <!---
 AwsAyyash/AwsAyyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
  
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%2300f.svg?style=for-the-badge&logo=php&logoColor=white) 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-FCC624?style=for-the-badge&logo=React&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-FCC624?style=for-the-badge&logo=TypeScript&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 
 
