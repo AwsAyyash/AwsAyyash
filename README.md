@@ -8,11 +8,11 @@
  
 <h1>About Me 📌</h1>
 
-- 👋 Hi, I’m Aws Ayyash a software engineer.
-- 👨‍💻 I’m interested in Full-Stack development and always motivated to develop my technical skills.
-- 🎓 I'm fresh computer science graduate with "Distinction" @Birzeit university. And a former Erasmus+ exchange student @Sapienza university of Rome, Italy in the department of computer and data science.
-- 📫 How to Reach Me aws.ayyash.1@gmail.com
-- 💁‍ I'm currently learning and working with React TypeScript as R&D frontend developer.
+-  👋 Hi, I'm Aws, a junior R&D software engineer, currently working in developing modern, scalable, maintainable, and accessible applications with React TypeScript at the client side, and C#.NET framework at the server side.
+-  👨‍💻 I’m interested in Full-Stack development.
+-  👨‍💻 I'm a fresh computer science graduate "With Distinction" @Birzeit university and and a former Erasmus+ exchange student @Sapienza university of Rome, Italy in the department of masters in computer and data science.
+-  💁 I am a life learner, and with a strong passion for software development, I'm constantly motivated to learn and refine my technical skillset. I enjoy practicing problem-solving techniques. I have participated in many contests locally at my home university, and globally like IEEExtreme 15.0 and 16.0.
+- 📫 Reach Me @ aws.ayyash.1@gmail.com
 
 <!---
 AwsAyyash/AwsAyyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
