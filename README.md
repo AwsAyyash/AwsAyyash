@@ -8,9 +8,26 @@
  
 <h1>About Me 📌</h1>
 
--  👋 Hi, I'm Aws, a junior R&D software engineer, currently working in developing modern, scalable, maintainable, and accessible applications with React TypeScript at the client side, and C#.NET framework at the server side.
+-  👋 Hi, I'm Aws, a Junior software engineer, currently working in developing responsive, user-friendly, scalable, maintainable, and accessible web applications.
+
+- I have a very good knowledge and foundation in programming, Data Structure, Algorithms, Object Oriented Programming (OOP) and Functional Programming, Software testing (unit, and end-to-end testing), Software Engineering, Systems designs, architectures, and Machine learning.
+
+- I have practical experience in:
+	1- JavaScript/TypeScript, React. - state management like: Redux, jotai, and zustand.
+    2- Html, CSS, and responsive designs.
+    3- Java, JavaFX.
+    4- Flask - Python.
+    5- Machine leanrining - Python, used many models to train for my data, find accuracy measures and then take an informed decision about which one to choose!
+
+- My current position as vendor for Microsoft R&D in Educational products as a standalone web application and within MS Teams environment, working with the core development team and collaborating closely with cross-functional teams, with React TypeScript and CSS using Fluent UI. In addition to that, I take the related server side tasks in maintaining and developing the APIs and unit testing with C# .NET.
+
+I'm a recent computer science graduate "With Distinction" @Birzeit university - 2023, and I am a life learner, and with a strong passion for software development, I'm constantly motivated to learn and refine my technical skillset. I enjoy practicing problem-solving techniques. I have participated in many contests locally at my home University, and globally like IEEExtreme 15.0 & 16.0.
+
+- During my undergraduate studies, I got the opportunity to participate in Erasmus+ scholarship as an exchange student @Sapienza University of Rome - Italy in the department of masters in computer and data science, where, I have enjoyed learning about cloud computing and data mining technologies including machine learning. I also met and made friendships with international students where I learned a lot about other cultures and mindsets.
+
+- My academic achievements include a graduation project (Wasselha -deliver it- app) that earned a high score of 90%. This project involved developing a consumer-to-consumer service delivery marketplace app. As part of a team of three, I contributed significantly to the design and the system analysis aspects including the use case and the software requirement specifications (SRS), relational database diagram ERD, state chart, class diagrams, and sequence diagrams. We developed the app as a native Android mobile application using Java, following the MVC design pattern, and integrated it with RESTful APIs.
+ 
 -  👨‍💻 I’m interested in Full-Stack development.
--  👨‍💻 I'm a fresh computer science graduate "With Distinction" @Birzeit university and and a former Erasmus+ exchange student @Sapienza university of Rome, Italy in the department of masters in computer and data science.
 -  💁 I am a life learner, and with a strong passion for software development, I'm constantly motivated to learn and refine my technical skillset. I enjoy practicing problem-solving techniques. I have participated in many contests locally at my home university, and globally like IEEExtreme 15.0 and 16.0.
 - 📫 Reach Me @ aws.ayyash.1@gmail.com
 
