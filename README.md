@@ -16,7 +16,7 @@
 	1- JavaScript/TypeScript, React. - state management like: Redux, jotai, and zustand.
   	2- Html, CSS, and responsive designs.
   	3- Java, JavaFX.
-  	4- Flask - Python.
+  	4- Flask - Python. 
   	5- Machine leanrining - Python, used many models to train for my data, find accuracy measures and then take an informed decision about which one to choose!
 
 - My current position as vendor for Microsoft R&D in Educational products as a standalone web application and within MS Teams environment, working with the core development team and collaborating closely with cross-functional teams, with React TypeScript and CSS using Fluent UI. In addition to that, I take the related server side tasks in maintaining and developing the APIs and unit testing with C# .NET.
