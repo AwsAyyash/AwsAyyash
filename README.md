@@ -14,14 +14,14 @@
 
 - I have practical experience in:
 	1- JavaScript/TypeScript, React. - state management like: Redux, jotai, and zustand.
-    2- Html, CSS, and responsive designs.
-    3- Java, JavaFX.
-    4- Flask - Python.
-    5- Machine leanrining - Python, used many models to train for my data, find accuracy measures and then take an informed decision about which one to choose!
+  	2- Html, CSS, and responsive designs.
+  	3- Java, JavaFX.
+  	4- Flask - Python.
+  	5- Machine leanrining - Python, used many models to train for my data, find accuracy measures and then take an informed decision about which one to choose!
 
 - My current position as vendor for Microsoft R&D in Educational products as a standalone web application and within MS Teams environment, working with the core development team and collaborating closely with cross-functional teams, with React TypeScript and CSS using Fluent UI. In addition to that, I take the related server side tasks in maintaining and developing the APIs and unit testing with C# .NET.
 
-I'm a recent computer science graduate "With Distinction" @Birzeit university - 2023, and I am a life learner, and with a strong passion for software development, I'm constantly motivated to learn and refine my technical skillset. I enjoy practicing problem-solving techniques. I have participated in many contests locally at my home University, and globally like IEEExtreme 15.0 & 16.0.
+- I'm a recent computer science graduate "With Distinction" @Birzeit university - 2023, and I am a life learner, and with a strong passion for software development, I'm constantly motivated to learn and refine my technical skillset. I enjoy practicing problem-solving techniques. I have participated in many contests locally at my home University, and globally like IEEExtreme 15.0 & 16.0.
 
 - During my undergraduate studies, I got the opportunity to participate in Erasmus+ scholarship as an exchange student @Sapienza University of Rome - Italy in the department of masters in computer and data science, where, I have enjoyed learning about cloud computing and data mining technologies including machine learning. I also met and made friendships with international students where I learned a lot about other cultures and mindsets.
 
