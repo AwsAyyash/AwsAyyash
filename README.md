@@ -1,5 +1,5 @@
 <!---
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Welcome%20visitor%20👋&fontSize=90)
 --->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
@@ -8,27 +8,31 @@
  
 <h1>About Me 📌</h1>
 
--  👋 Hi, I'm Aws, a Junior software engineer, currently working in developing responsive, user-friendly, scalable, maintainable, and accessible web applications.
+-  👋 Hi, I'm Aws, a Software Engineer @Microsoft, currently working in developing responsive, user-friendly, scalable, maintainable, and accessible web applications and wellbeing games.
+
+- My current position at Microsoft R&D in Educational products, related to students' emotional wellbeing apps for Microsoft as a standalone web application and within MS Teams environment, working with the core development team and collaborating closely with cross-functional teams like principal Product Managers and Designers by taking a deep look into the design and the feature behavior and making suggestions for improvements when needed, developing responsive, user-friendly, and accessible web pages/apps and games with React TypeScript and CSS/SCSS using Fluent UI. In addition to that, I take the related server side tasks in maintaining and developing the APIs and unit testing with C# .NET framework.
+
+I consistently seek opportunities to take the lead and responsibility to develop new features. I extended and developed a new feature to an existing templating solution for the Product Manager to add as many games with ZERO code touch. Also, participating in the selections of new libraries. So far, I have chosen (By suggesting them and showing the pros/cons) and implemented 2 open-source libraries to enhance the app’s features.
+
+My detail-oriented approach allows me to discover engineering (related to the clean code principles) / efficiency (like repeated code execution) / performance and UI/UX issues. I take ownership by proposing solutions, and actively participate in fixing and refactoring code according to clean code/SOLID principles, in which I make a great contribution to removing the technical debt. Beyond development, I contribute by participating in manual testing and bug-bashing for new features alongside the core team, ensuring a clean and safe release experience. Additionally, I've shared my knowledge by leading knowledge-sharing sessions on JavaScript (The event loop and the execution cycle) and React (Enhancing the re-render performance with memoization) for my colleagues.
+I also take an active role in collaborating with the product management team, joining feature accessibility reviews with people with disabilities - PwD.
+
 
 - I have a very good knowledge and foundation in programming, Data Structure, Algorithms, Object Oriented Programming (OOP) and Functional Programming, Software testing (unit, and end-to-end testing), Software Engineering, Systems designs, architectures, and Machine learning.
 
 - I have practical experience in:
-	- JavaScript/TypeScript, React. - state management like: Redux, jotai, and zustand.
+	- JavaScript/TypeScript, React - state management like: Redux, jotai, and zustand.
  	-  Html, CSS, and responsive designs.
   	- Java, JavaFX.
   	- Flask - Python.
   	- Machine learning - Python, used many models to train for my data, find accuracy measures and then take an informed decision about which one to choose!
 
-- My current position as vendor for Microsoft R&D in Educational products as a standalone web application and within MS Teams environment, working with the core development team and collaborating closely with cross-functional teams, with React TypeScript and CSS using Fluent UI. In addition to that, I take the related server side tasks in maintaining and developing the APIs and unit testing with C# .NET.
-
-- I'm a recent computer science graduate "With Distinction" @Birzeit university - 2023, and I am a life learner, and with a strong passion for software development, I'm constantly motivated to learn and refine my technical skillset. I enjoy practicing problem-solving techniques. I have participated in many contests locally at my home University, and globally like IEEExtreme 15.0 & 16.0.
+- I'm a computer science graduate "With Distinction" @Birzeit university - 2023, and I am a life learner, and with a strong passion for software development, I'm constantly motivated to learn and refine my technical skillset. I enjoy practicing problem-solving techniques. I have participated in many contests locally at my home University, and globally like IEEExtreme 15.0 & 16.0.
 
 - My academic achievements include a graduation project (Wasselha -deliver it- app) that earned a high score of 90%. This project involved developing a consumer-to-consumer service delivery marketplace app. As part of a team of three, I contributed significantly to the design and the system analysis aspects including the use case and the software requirement specifications (SRS), relational database diagram ERD, state chart, class diagrams, and sequence diagrams. We developed the app as a native Android mobile application using Java, following the MVC design pattern, and integrated it with RESTful APIs.
 
-- During my undergraduate studies, I got the opportunity to participate in Erasmus+ scholarship as an exchange student @Sapienza University of Rome - Italy in the department of masters in computer and data science, where, I have enjoyed learning about cloud computing and data mining technologies including machine learning. I also met and made friendships with international students where I learned a lot about other cultures and mindsets.
+- My academic achievements include a graduation project (Wasselha -deliver it- app) that earned a score of 90% (with High Distinction). This project involved developing a consumer-to-consumer service delivery marketplace app. As part of a team of three, I contributed significantly (around 65%) to the design and the system analysis aspects including the use case and the software requirement specifications (SRS), relational database diagram ERD, state chart, class diagrams, and sequence diagrams. We developed the app as a native Android mobile application using Java, following the MVC design pattern, and integrated it with a backend server utilizing RESTful APIs. My main contribution in the development and implementation of the data access layer by implementing interfaces and using dependency injection for the logical classes, and the frontend and the activities/screens UI/UX.
  
--  👨‍💻 I’m interested in Full-Stack development.
--  💁 I am a life learner, and with a strong passion for software development, I'm constantly motivated to learn and refine my technical skillset. I enjoy practicing problem-solving techniques. I have participated in many contests locally at my home university, and globally like IEEExtreme 15.0 and 16.0.
 - 📫 Reach Me @ aws.ayyash.1@gmail.com
 
 <!---
